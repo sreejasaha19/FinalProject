@@ -2,8 +2,6 @@
 
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
 
-## My website Link:
-https://purple-smoke-0b353db10.1.azurestaticapps.net/
 
 This is 6 Page Fashion-Store Front End website design
 
